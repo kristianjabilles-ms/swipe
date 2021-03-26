@@ -34,3 +34,5 @@ jspm_packages/
 .editorconfig
 # Mac OSX
 .DS_Store
+
+dist
