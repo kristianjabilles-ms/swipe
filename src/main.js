@@ -1,3 +1,4 @@
+import '@capacitor/core';
 import { createApp } from 'vue';
 
 import '@/plugins/firebase';
