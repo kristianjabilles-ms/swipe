@@ -21,6 +21,10 @@ const router = createRouter({
           component: () => import('@/pages/Products.vue')
         },
         {
+          path: 'chat',
+          component: () => import('@/pages/Chat.vue')
+        },
+        {
           path: 'profile',
           component: () => import('@/pages/Profile.vue')
         }
